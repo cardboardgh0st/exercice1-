@@ -3,6 +3,8 @@ h1 { color: chartreuse;
 text-align: center;}
 h2 {text-align: center;}
 /*modifie les balises p*/
-p {background-color: hotpink;}
-/*apparamment j'ai pas de balise p dans mon site*/
+p {color: aqua;}
+/*apparamment j'ai pas de balise p dans mon site edit: maintenant oui, c'est pour le texte*/
 body {background-color: hotpink; font-family: cursive}
+ol {color: goldenrod;}
+ul {color: lavender;}
