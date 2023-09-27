@@ -1,0 +1,8 @@
+/*commentaires*/
+h1 { color: chartreuse;
+text-align: center;}
+h2 {text-align: center;}
+/*modifie les balises p*/
+p {background-color: hotpink;}
+/*apparamment j'ai pas de balise p dans mon site*/
+body {background-color: hotpink; font-family: cursive}
