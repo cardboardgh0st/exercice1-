@@ -6,6 +6,7 @@ h2 {text-align: center;}
 p {color: aqua;}
 p1 {color: limegreen; ;}
 p2{background-color: aliceblue;font-family:'Times New Roman', Times, serif;}
+
 /*apparamment j'ai pas de balise p dans mon site edit: maintenant oui, c'est pour le texte*/
 body {background-color: hotpink; font-family: cursive}
 ol {color: goldenrod;}
